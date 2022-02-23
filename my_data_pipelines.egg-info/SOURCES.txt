@@ -1,9 +1,0 @@
-README.md
-setup.py
-my_data_pipelines/__init__.py
-my_data_pipelines/interactive_jupyter.py
-my_data_pipelines/strings.py
-my_data_pipelines.egg-info/PKG-INFO
-my_data_pipelines.egg-info/SOURCES.txt
-my_data_pipelines.egg-info/dependency_links.txt
-my_data_pipelines.egg-info/top_level.txt
